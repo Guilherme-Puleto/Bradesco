@@ -10,8 +10,5 @@ Prototipação
 #  Autor
 
 Guilherme Chica Puleto
-Gabriel Neiva Almeida
-Giovanni Emerich Bueno
-Gustavo Ryan Lacerda
-Paulo Vitor Passos Freitas
+
 Gabrielle Motta Catalan
