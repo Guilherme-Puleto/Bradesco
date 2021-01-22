@@ -15,9 +15,10 @@ Gabrielle Motta Catalan
 
 Gabriel Neiva Almeida
 
-Giovanni Emerich Bueno
+Giovanni Emerich Bueno Zabotto
 
-Gustavo  Ryan  Lacerda
+Gustavo  Ryan  Donegá
 
 Paulo Vitor Passos Freitas
 
+Gabriel Henrique Castro de Carvalho
