@@ -12,3 +12,12 @@ Prototipação
 Guilherme Chica Puleto
 
 Gabrielle Motta Catalan
+
+Gabriel Neiva Almeida
+
+Giovanni Emerich Bueno
+
+Gustavo  Ryan  Lacerda
+
+Paulo Vitor Passos Freitas
+
