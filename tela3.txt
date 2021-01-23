@@ -1,0 +1,167 @@
+/* Serviços */
+
+position: relative;
+width: 450px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 450px;
+height: 593px;
+left: -1px;
+top: 83px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 362px;
+height: 67px;
+right: 44px;
+top: 683px;
+
+background: #CD0931;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 47px;
+
+
+/* Crie sua conta */
+
+position: absolute;
+width: 362px;
+height: 28px;
+left: 44px;
+top: 706px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 450px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #F31D5D;
+
+
+/* Comércio amigo */
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 159px;
+top: 29px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 15px;
+height: 30px;
+left: 23px;
+top: 24px;
+
+border: 5px solid #FFFFFF;
+
+
+/* Através de um cadastro rápido, receba desconto dos fornecedores ao comprar com cartões Bradesco e garanta preços mais baixos aos seus clientes! */
+
+position: absolute;
+width: 348px;
+height: 112px;
+left: 51px;
+top: 522px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* 3Prancheta 4 1 */
+
+position: absolute;
+width: 399px;
+height: 396px;
+left: 33px;
+top: 126px;
+
+background: url(3Prancheta 4.png);
+
+
+/* Group 30 */
+
+position: absolute;
+width: 59px;
+height: 13px;
+left: 195px;
+top: 652px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 195px;
+top: 652px;
+
+border: 2px solid #C4C4C4;
+box-sizing: border-box;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 241px;
+top: 652px;
+
+border: 2px solid #C4C4C4;
+box-sizing: border-box;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 218px;
+top: 652px;
+
+background: #C4C4C4;

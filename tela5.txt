@@ -1,0 +1,332 @@
+/* Serviços */
+
+position: relative;
+width: 450px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 177px;
+height: 40px;
+left: 232px;
+top: 459px;
+
+background: #3A6AE7;
+border: 1px solid #3A6AE7;
+box-sizing: border-box;
+border-radius: 42px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 362px;
+height: 67px;
+right: 44px;
+top: 683px;
+
+background: #CD0931;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 47px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 450px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #F31D5D;
+
+
+/* Comércio amigo */
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 159px;
+top: 29px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 15px;
+height: 30px;
+left: 23px;
+top: 24px;
+
+border: 5px solid #FFFFFF;
+
+
+/* Quais são seus dados? */
+
+position: absolute;
+width: 253px;
+height: 29px;
+left: 23px;
+top: 128px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Qual o tipo do estabelecimento? */
+
+position: absolute;
+width: 364px;
+height: 29px;
+left: 23px;
+top: 400px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Outro: */
+
+position: absolute;
+width: 71px;
+height: 29px;
+left: 23px;
+top: 540px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #808080;
+
+
+
+/* Informe seu CNPJ */
+
+position: absolute;
+width: 145px;
+height: 22px;
+left: 31px;
+top: 209px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* Crie uma senha */
+
+position: absolute;
+width: 129px;
+height: 22px;
+left: 30px;
+top: 294px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* Apenas números */
+
+position: absolute;
+width: 102px;
+height: 16px;
+left: 30px;
+top: 329px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* Apenas números */
+
+position: absolute;
+width: 102px;
+height: 16px;
+left: 30px;
+top: 244px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* continuar */
+
+position: absolute;
+width: 362px;
+height: 28px;
+left: 44px;
+top: 706px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 399px;
+height: 0px;
+left: 26px;
+top: 238px;
+
+border: 1px solid #808080;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 399px;
+height: 0px;
+left: 26px;
+top: 322px;
+
+border: 1px solid #808080;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 177px;
+height: 40px;
+left: 42px;
+top: 459px;
+
+background: #3A6AE7;
+border-radius: 42px;
+
+
+/* Mercado */
+
+position: absolute;
+width: 73px;
+height: 22px;
+left: 95px;
+top: 467px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Farmácia */
+
+position: absolute;
+width: 75px;
+height: 22px;
+left: 283px;
+top: 467px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Digite o tipo de estabelecimento */
+
+position: absolute;
+width: 272px;
+height: 22px;
+left: 24px;
+top: 583px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 399px;
+height: 0px;
+left: 23px;
+top: 612px;
+
+border: 1px solid #808080;

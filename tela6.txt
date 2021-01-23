@@ -1,0 +1,253 @@
+/* Serviços */
+
+position: relative;
+width: 450px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 450px;
+height: 658px;
+left: 0px;
+top: 142px;
+
+background: #F0F1F5;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 450px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #F31D5D;
+
+
+/* Comércio amigo */
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 159px;
+top: 29px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 15px;
+height: 30px;
+left: 23px;
+top: 24px;
+
+border: 5px solid #FFFFFF;
+
+
+/* Nestlé */
+
+position: absolute;
+width: 54px;
+height: 22px;
+left: 198px;
+top: 100px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 180px;
+height: 180px;
+left: 23px;
+top: 167px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.15);
+border-radius: 11px;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 180px;
+height: 180px;
+left: 23px;
+top: 379px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.15);
+border-radius: 11px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 180px;
+height: 180px;
+left: 237px;
+top: 379px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.15);
+border-radius: 11px;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 180px;
+height: 180px;
+left: 237px;
+top: 167px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.15);
+border-radius: 11px;
+
+
+/* Kitkat */
+
+position: absolute;
+width: 50px;
+height: 22px;
+left: 38px;
+top: 303px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Ninho */
+
+position: absolute;
+width: 49px;
+height: 22px;
+left: 38px;
+top: 515px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Nescau */
+
+position: absolute;
+width: 61px;
+height: 22px;
+left: 252px;
+top: 515px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Chokito */
+
+position: absolute;
+width: 66px;
+height: 22px;
+left: 249px;
+top: 303px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 118px;
+height: 118px;
+left: 54px;
+top: 176px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+position: absolute;
+width: 110px;
+height: 110px;
+left: 272px;
+top: 184px;
+
+background: url(image.png);
+
+
+/* image 3 */
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 61px;
+top: 399px;
+
+background: url(image.png);
+
+
+/* image 5 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 277px;
+top: 400px;
+
+background: url(image.png);

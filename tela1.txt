@@ -1,0 +1,47 @@
+/* Serviços */
+
+position: relative;
+width: 450px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* tela2 (1) 1 */
+
+position: absolute;
+width: 450px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: url(tela2 (1).jpg);
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 189px;
+height: 50px;
+left: 236px;
+top: 175px;
+
+background: #FFFFFF;
+
+
+/* Comércio Amigo */
+
+position: absolute;
+width: 65px;
+height: 34px;
+left: 291px;
+top: 183px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+

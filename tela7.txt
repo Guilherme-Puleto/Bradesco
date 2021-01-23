@@ -1,0 +1,251 @@
+/* Serviços */
+
+position: relative;
+width: 450px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 450px;
+height: 658px;
+left: 0px;
+top: 142px;
+
+background: #F0F1F5;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 450px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #F31D5D;
+
+
+/* Comércio amigo */
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 157px;
+top: 29px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 15px;
+height: 30px;
+left: 23px;
+top: 24px;
+
+border: 5px solid #FFFFFF;
+
+
+/* Nestlé */
+
+position: absolute;
+width: 54px;
+height: 22px;
+left: 198px;
+top: 100px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 401px;
+height: 164px;
+left: 25px;
+top: 282px;
+
+background: #FFFFFF;
+/* a */
+box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.15);
+border-radius: 11px;
+
+
+/* Gostaria de comprar para seu estabelecimento por um preço abaixo do mercado? */
+
+position: absolute;
+width: 316px;
+height: 66px;
+left: 68px;
+top: 305px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Atualmente, o próximo carregamento de kitkats está marcado para o dia 25/01 */
+
+position: absolute;
+width: 341px;
+height: 44px;
+left: 55px;
+top: 205px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 75px;
+top: 387px;
+
+background: #3A6AE7;
+border-radius: 42px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 226px;
+top: 387px;
+
+border: 2px solid #3A6AE7;
+box-sizing: border-box;
+border-radius: 42px;
+
+
+/* Sim */
+
+position: absolute;
+width: 31px;
+height: 22px;
+left: 131px;
+top: 397px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Não */
+
+position: absolute;
+width: 33px;
+height: 22px;
+left: 281px;
+top: 397px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #3A6AE7;
+
+
+
+/* Preço do mercado: R$500 lote com 500 kitkats */
+
+position: absolute;
+width: 230px;
+height: 44px;
+left: 110px;
+top: 532px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Preço com bradesco: R$480 lote com 500 kitkats */
+
+position: absolute;
+width: 230px;
+height: 44px;
+left: 109px;
+top: 599px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Exemplo do benefício */
+
+position: absolute;
+width: 258px;
+height: 29px;
+left: 97px;
+top: 475px;
+
+font-family: Bradesco Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
